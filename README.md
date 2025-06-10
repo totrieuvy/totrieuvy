@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Tô Triều Vỹ
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
+![Profile Views](https://komarev.com/ghpvc/?username=totrieuvy&color=blue)
 
 I have a huge passion on becoming a developer. I love learning new things and sharing my knowledge with others.
 
