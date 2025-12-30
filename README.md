@@ -4,11 +4,34 @@
 I have a huge passion on becoming a developer. I love learning new things and sharing my knowledge with others.
 
 ## Languages and Tools
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot) ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL) ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis)
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka)
-![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=flat-square&logo=socketdotio)
+<p align="left">
+  <!-- Frontend -->
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="32"/>
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="32"/>
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="32"/>
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="32"/>
+  <img src="https://cdn.simpleicons.org/redux/764ABC" height="32"/>
+  <img src="https://cdn.simpleicons.org/reactnative/61DAFB" height="32"/>
+
+  <!-- Backend -->
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="32"/>
+  <img src="https://cdn.simpleicons.org/express/000000" height="32"/>
+  <img src="https://cdn.simpleicons.org/java/007396" height="32"/>
+  <img src="https://cdn.simpleicons.org/springboot/6DB33F" height="32"/>
+
+  <!-- Database -->
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="32"/>
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="32"/>
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="32"/>
+  <img src="https://cdn.simpleicons.org/postgresql/336791" height="32"/>
+
+  <!-- Tools / Infra -->
+  <img src="https://cdn.simpleicons.org/git/F05032" height="32"/>
+  <img src="https://cdn.simpleicons.org/github/181717" height="32"/>
+  <img src="https://cdn.simpleicons.org/redis/DC382D" height="32"/>
+  <img src="https://cdn.simpleicons.org/apachekafka/231F20" height="32"/>
+  <img src="https://cdn.simpleicons.org/websocket/010101" height="32"/>
+</p>
 
 
 
