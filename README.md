@@ -5,26 +5,32 @@ I have a huge passion on becoming a developer. I love learning new things and sh
 
 ## Languages and Tools
 <p align="left">
-  <img src="https://cdn.simpleicons.org/html5" height="32"/>
-  <img src="https://cdn.simpleicons.org/css" height="32"/>
-  <img src="https://cdn.simpleicons.org/javascript" height="32"/>
-  <img src="https://cdn.simpleicons.org/react" height="32"/>
-  <img src="https://cdn.simpleicons.org/redux" height="32"/>
+  <img src="https://cdn.simpleicons.org/html5" height="35"/>
+  <img src="https://cdn.simpleicons.org/css" height="35"/>
+  <img src="https://cdn.simpleicons.org/sass" height="35"/>
+  <img src="https://cdn.simpleicons.org/javascript" height="35"/>
+  <img src="https://cdn.simpleicons.org/typescript" height="35"/>
+  <img src="https://cdn.simpleicons.org/react" height="35"/>
+  <img src="https://cdn.simpleicons.org/redux" height="35"/>
 
-  <img src="https://cdn.simpleicons.org/nodedotjs" height="32"/>
-  <img src="https://cdn.simpleicons.org/express" height="32"/>
-  <img src="https://cdn.simpleicons.org/coffeescript" height="32"/>
-  <img src="https://cdn.simpleicons.org/springboot" height="32"/>
+  <img src="https://cdn.simpleicons.org/nodedotjs" height="35"/>
+  <img src="https://cdn.simpleicons.org/express" height="35"/>
+  <img src="https://cdn.simpleicons.org/coffeescript" height="35"/>
+  <img src="https://cdn.simpleicons.org/springboot" height="35"/>
 
-  <img src="https://cdn.simpleicons.org/mongodb" height="32"/>
-  <img src="https://cdn.simpleicons.org/mysql" height="32"/>
-  <img src="https://cdn.simpleicons.org/postgresql" height="32"/>
+  <img src="https://cdn.simpleicons.org/mongodb" height="35"/>
+  <img src="https://cdn.simpleicons.org/mysql" height="35"/>
+  <img src="https://cdn.simpleicons.org/postgresql" height="35"/>
 
-  <img src="https://cdn.simpleicons.org/git" height="32"/>
-  <img src="https://cdn.simpleicons.org/github" height="32"/>
-  <img src="https://cdn.simpleicons.org/redis" height="32"/>
-  <img src="https://cdn.simpleicons.org/apachekafka" height="32"/>
-  <img src="https://cdn.simpleicons.org/socketdotio" height="32"/>
+  <img src="https://cdn.simpleicons.org/git" height="35"/>
+  <img src="https://cdn.simpleicons.org/github" height="35"/>
+  <img src="https://cdn.simpleicons.org/redis" height="35"/>
+  <img src="https://cdn.simpleicons.org/apachekafka" height="35"/>
+  <img src="https://cdn.simpleicons.org/socketdotio" height="35"/>
+
+  <img src="https://cdn.simpleicons.org/jira" height="35"/>
+  <img src="https://cdn.simpleicons.org/figma" height="35"/>
+  <img src="https://cdn.simpleicons.org/intellijidea" height="35"/>
 
 </p>
 
