@@ -6,21 +6,19 @@ I have a huge passion on becoming a developer. I love learning new things and sh
 ## Languages and Tools
 <p align="left">
   <img src="https://cdn.simpleicons.org/html5" height="32"/>
-  <img src="https://cdn.simpleicons.org/css3" height="32"/>
+  <img src="https://cdn.simpleicons.org/css" height="32"/>
   <img src="https://cdn.simpleicons.org/javascript" height="32"/>
   <img src="https://cdn.simpleicons.org/react" height="32"/>
   <img src="https://cdn.simpleicons.org/redux" height="32"/>
-  <img src="https://cdn.simpleicons.org/reactnative" height="32"/>
 
   <img src="https://cdn.simpleicons.org/nodedotjs" height="32"/>
   <img src="https://cdn.simpleicons.org/express" height="32"/>
-  <img src="https://cdn.simpleicons.org/java" height="32"/>
+  <img src="https://cdn.simpleicons.org/coffeescript" height="32"/>
   <img src="https://cdn.simpleicons.org/springboot" height="32"/>
 
   <img src="https://cdn.simpleicons.org/mongodb" height="32"/>
   <img src="https://cdn.simpleicons.org/mysql" height="32"/>
   <img src="https://cdn.simpleicons.org/postgresql" height="32"/>
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver" height="32"/>
 
   <img src="https://cdn.simpleicons.org/git" height="32"/>
   <img src="https://cdn.simpleicons.org/github" height="32"/>
