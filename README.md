@@ -39,7 +39,7 @@ I have a huge passion on becoming a developer. I love learning new things and sh
 
 
 ## Connect with me
-- 📫 How to reach me: [vyttse183178@fpt.edu.vn]
+- 📫 How to reach me: [trieuvyto2004@gmail.com]
 - 🔗 [LinkedIn](https://www.linkedin.com/in/tovy2004/)
 
 
